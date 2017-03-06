@@ -1,0 +1,2 @@
+﻿  Source.cpp
+c:\users\akali\desktop\testlesson\testlesson\source.cpp(21): error C2675: унарный "++": "Counter" не определяет этот оператор или преобразование к типу приемлемо к встроенному оператору
